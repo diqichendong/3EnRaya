@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">3 En Raya</string>
+    <string name="empezar">EMPEZAR</string>
+    <string name="nombres">NOMBRES</string>
+    <string name="turno">"Turno: "</string>
+    <string name="nombre_jugador_1">Nombre jugador 1</string>
+    <string name="nombre_jugador_2">Nombre jugador 2</string>
+    <string name="nombre_jugadores">Nombre jugadores</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="nueva_partida">Nueva partida</string>
+    <string name="quieres_una_nueva_partida">¿Quieres una nueva partida?</string>
+    <string name="no">NO</string>
+    <string name="si">SI</string>
+    <string name="gana">"GANA: "</string>
+    <string name="pierde">"PERDEDOR: "</string>
+</resources>
